@@ -1,6 +1,5 @@
 package org.fisco.bcos.asset.client.electrade;
 
-import org.fisco.bcos.asset.client.AssetClient;
 import org.fisco.bcos.sdk.BcosSDK;
 import org.fisco.bcos.sdk.client.Client;
 import org.fisco.bcos.sdk.crypto.keypair.CryptoKeyPair;
@@ -19,7 +18,7 @@ import java.util.Properties;
 
 public class FiscoInit {
 
-    static Logger logger = LoggerFactory.getLogger(AssetClient.class);
+    static Logger logger = LoggerFactory.getLogger(FiscoInit.class);
 
     private BcosSDK bcosSDK;
     private Client client;

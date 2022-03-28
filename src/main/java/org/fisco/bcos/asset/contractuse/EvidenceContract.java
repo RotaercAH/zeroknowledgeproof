@@ -17,7 +17,7 @@ import java.util.List;
 public class EvidenceContract {
     org.fisco.bcos.sdk.client.Client client;
     HashMap<String, CryptoKeyPair> fiscoAccount;
-    static Logger logger = LoggerFactory.getLogger(TradeContract.class);
+    static Logger logger = LoggerFactory.getLogger(EvidenceContract.class);
 
     public EvidenceContract(org.fisco.bcos.sdk.client.Client client, HashMap<String, CryptoKeyPair> fiscoAccount) {
         this.client = client;
