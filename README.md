@@ -1,6 +1,6 @@
 ## 基于Fisco Bcos平台搭建区块链底层平台，建链过程参见https://fisco-bcos-documentation.readthedocs.io/zh_CN/latest/docs/introduction.html
 
-## 密码学算法部分位于scr
+## 密码学算法部分位于asset-app/src/main/java/org/fisco/bcos/asset/crypto/
 
 ## 实现了两方签名以及零知识证明部分，零知识证明使用方式如下
 
