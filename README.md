@@ -1,8 +1,12 @@
-## 基于Fisco Bcos平台搭建区块链底层平台，建链过程参见https://fisco-bcos-documentation.readthedocs.io/zh_CN/latest/docs/introduction.html
+## 本项目实现了区块链上的隐私电能交易与结算
+
+
+
+## 区块链底层平台基于Fisco Bcos平台搭建，建链过程参见https://fisco-bcos-documentation.readthedocs.io/zh_CN/latest/docs/introduction.html
 
 ## 密码学算法部分位于asset-app/src/main/java/org/fisco/bcos/asset/crypto/
 
-## 实现了两方签名以及零知识证明部分，零知识证明使用方式如下
+## 密码学算法包括同态加密、两方ECDSA签名以及零知识证明部分，零知识证明使用方式如下
 
 # zeroknowledgeproof库使用说明
 
