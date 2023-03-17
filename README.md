@@ -1,6 +1,6 @@
 ## 本项目实现了区块链上的隐私电能交易与结算
 
-
+![image](https://github.com/RotaercAH/zeroknowledgeproof/blob/master/%E6%96%B9%E6%A1%88.jpg)
 
 ## 区块链底层平台基于Fisco Bcos平台搭建，建链过程参见https://fisco-bcos-documentation.readthedocs.io/zh_CN/latest/docs/introduction.html
 
